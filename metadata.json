@@ -1,0 +1,5 @@
+{
+  "name": "N8N Smart Chat",
+  "description": "A high-performance React chat application integrated with N8N webhooks, featuring a modern UI, RTL support for Persian, and robust message handling.",
+  "requestFramePermissions": []
+}
